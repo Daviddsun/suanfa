@@ -1,0 +1,3 @@
+/mnt/d/suanfa/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/suanfa/build/CMakeFiles/suanfa.dir
+/mnt/d/suanfa/build/CMakeFiles/edit_cache.dir
