@@ -1,11 +1,10 @@
 #include <stdio.h>
 #include <string.h>
 
-int binarysearch(int arr[], int target){
+int binarysearch(int arr[], int target, int lenth){
 
     int left = 0;
-    int right = sizeof(arr)/sizeof(arr[0]) - 1;
-    printf("left: %d, right: %d, sizeof(arr): %d\n", left, right, sizeof(arr)/sizeof(arr[0]));
+    int right = lenth - 1;
     
     while(left <= right){
         int mid = (left + right)/2;

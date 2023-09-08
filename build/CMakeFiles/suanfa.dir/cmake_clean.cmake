@@ -1,7 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/suanfa.dir/suanfa.cpp.o"
-  "suanfa.pdb"
+  "CMakeFiles/suanfa.dir/suanfa.cpp.o.d"
   "suanfa"
+  "suanfa.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

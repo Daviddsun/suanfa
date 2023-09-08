@@ -1,1 +1,1 @@
-/usr/bin/c++    -rdynamic CMakeFiles/suanfa.dir/suanfa.cpp.o  -o suanfa 
+/usr/bin/c++ -rdynamic CMakeFiles/suanfa.dir/suanfa.cpp.o -o suanfa 
